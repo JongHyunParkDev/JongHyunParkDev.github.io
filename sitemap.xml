@@ -1,197 +1,219 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Root -->
   <url>
-    <loc>https://jonghyunparkdev.github.io/</loc>
+    <loc>https://jonghyunparkdev.github.io/ko</loc>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-
-  <!-- English -->
-  <url>
-    <loc>https://jonghyunparkdev.github.io/en/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://jonghyunparkdev.github.io/en/card-flip-game</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://jonghyunparkdev.github.io/en/color-analyzer</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://jonghyunparkdev.github.io/en/icon-generator</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://jonghyunparkdev.github.io/en/markdown-converter</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://jonghyunparkdev.github.io/en/mbti-saju</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://jonghyunparkdev.github.io/en/minesweeper-game</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://jonghyunparkdev.github.io/en/qr-code-generator</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://jonghyunparkdev.github.io/en/suika-game</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Korean -->
-  <url>
-    <loc>https://jonghyunparkdev.github.io/ko/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://jonghyunparkdev.github.io/ko/card-flip-game</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://jonghyunparkdev.github.io/ko/color-analyzer</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://jonghyunparkdev.github.io/ko/icon-generator</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://jonghyunparkdev.github.io/ko/markdown-converter</loc>
-    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://jonghyunparkdev.github.io/ko/mbti-saju</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://jonghyunparkdev.github.io/ko/minesweeper-game</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://jonghyunparkdev.github.io/ko/qr-code-generator</loc>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://jonghyunparkdev.github.io/ko/suika-game</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Japanese -->
-  <url>
-    <loc>https://jonghyunparkdev.github.io/ja/</loc>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jonghyunparkdev.github.io/ja/card-flip-game</loc>
-    <changefreq>weekly</changefreq>
+    <loc>https://jonghyunparkdev.github.io/ko/color-analyzer</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jonghyunparkdev.github.io/ja/color-analyzer</loc>
-    <changefreq>weekly</changefreq>
+    <loc>https://jonghyunparkdev.github.io/ko/markdown-converter</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jonghyunparkdev.github.io/ja/icon-generator</loc>
-    <changefreq>weekly</changefreq>
+    <loc>https://jonghyunparkdev.github.io/ko/qr-code-generator</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jonghyunparkdev.github.io/ja/markdown-converter</loc>
-    <changefreq>weekly</changefreq>
+    <loc>https://jonghyunparkdev.github.io/ko/card-flip-game</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jonghyunparkdev.github.io/ko/minesweeper-game</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jonghyunparkdev.github.io/ko/icon-generator</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jonghyunparkdev.github.io/en</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jonghyunparkdev.github.io/en/mbti-saju</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jonghyunparkdev.github.io/en/suika-game</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jonghyunparkdev.github.io/en/color-analyzer</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jonghyunparkdev.github.io/en/markdown-converter</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jonghyunparkdev.github.io/en/qr-code-generator</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jonghyunparkdev.github.io/en/card-flip-game</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jonghyunparkdev.github.io/en/minesweeper-game</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jonghyunparkdev.github.io/en/icon-generator</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jonghyunparkdev.github.io/ja</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://jonghyunparkdev.github.io/ja/mbti-saju</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://jonghyunparkdev.github.io/ja/minesweeper-game</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://jonghyunparkdev.github.io/ja/qr-code-generator</loc>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://jonghyunparkdev.github.io/ja/suika-game</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Chinese -->
-  <url>
-    <loc>https://jonghyunparkdev.github.io/zh/</loc>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jonghyunparkdev.github.io/zh/card-flip-game</loc>
-    <changefreq>weekly</changefreq>
+    <loc>https://jonghyunparkdev.github.io/ja/color-analyzer</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jonghyunparkdev.github.io/zh/color-analyzer</loc>
-    <changefreq>weekly</changefreq>
+    <loc>https://jonghyunparkdev.github.io/ja/markdown-converter</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jonghyunparkdev.github.io/zh/icon-generator</loc>
-    <changefreq>weekly</changefreq>
+    <loc>https://jonghyunparkdev.github.io/ja/qr-code-generator</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jonghyunparkdev.github.io/zh/markdown-converter</loc>
-    <changefreq>weekly</changefreq>
+    <loc>https://jonghyunparkdev.github.io/ja/card-flip-game</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jonghyunparkdev.github.io/ja/minesweeper-game</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jonghyunparkdev.github.io/ja/icon-generator</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jonghyunparkdev.github.io/zh</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://jonghyunparkdev.github.io/zh/mbti-saju</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://jonghyunparkdev.github.io/zh/minesweeper-game</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://jonghyunparkdev.github.io/zh/qr-code-generator</loc>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://jonghyunparkdev.github.io/zh/suika-game</loc>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jonghyunparkdev.github.io/zh/color-analyzer</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jonghyunparkdev.github.io/zh/markdown-converter</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jonghyunparkdev.github.io/zh/qr-code-generator</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jonghyunparkdev.github.io/zh/card-flip-game</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jonghyunparkdev.github.io/zh/minesweeper-game</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jonghyunparkdev.github.io/zh/icon-generator</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
