@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 :: 1. 삭제 제외 목록 설정 (공백으로 구분)
-set "EXCLUDE_LIST=privacy .nojekyll google76ab04133a6c0b8a.html robots.txt sitemap.xml clean_site.bat"
+set "EXCLUDE_LIST=privacy .nojekyll google76ab04133a6c0b8a.html robots.txt sitemap.xml ads.txt clean_site.bat"
 
 echo Starting cleanup process...
 echo -------------------------------------------
