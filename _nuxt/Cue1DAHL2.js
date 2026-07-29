@@ -1,0 +1,1 @@
+import{et as e}from"./2sv8N_va.js";function t(){return e(`_q_`)}export{t};

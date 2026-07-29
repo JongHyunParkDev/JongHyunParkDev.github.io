@@ -1,4 +1,11 @@
 User-agent: *
 Allow: /
 
+# AdSense needs to fetch pages to decide which ads to serve.
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: AdsBot-Google
+Allow: /
+
 Sitemap: https://jonghyunparkdev.github.io/sitemap.xml
