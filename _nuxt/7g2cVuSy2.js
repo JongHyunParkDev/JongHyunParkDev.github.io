@@ -1,1 +1,0 @@
-import{K as e}from"./2sv8N_va.js";import{o as t}from"./DTRds2YU.js";var n=t({name:`QSpace`,setup(){let t=e(`div`,{class:`q-space`});return()=>t}});export{n as t};

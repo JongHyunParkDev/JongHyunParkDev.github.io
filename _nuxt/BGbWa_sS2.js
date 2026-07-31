@@ -1,0 +1,1 @@
+import{wt as e}from"./BFzzJFGZ.js";function t(){return e(`_q_`)}export{t};

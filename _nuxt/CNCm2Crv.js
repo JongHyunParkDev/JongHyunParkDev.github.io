@@ -1,0 +1,1 @@
+import{It as e,Pt as t,jt as n,pt as r}from"./BFzzJFGZ.js";import{f as i}from"./Cf_IBOAw.js";function a(){let a,o=r();function s(){a=void 0}return e(s),t(s),{removeTick:s,registerTick(e){a=e,n(()=>{a===e&&(i(o)||a(),a=void 0)})}}}export{a as t};
