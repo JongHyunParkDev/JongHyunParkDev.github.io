@@ -1,0 +1,1 @@
+import{vt as e}from"./CBvX2I-a.js";function t(){return e(`_q_`)}export{t};

@@ -1,1 +1,0 @@
-import{It as e,Pt as t,pt as n}from"./BFzzJFGZ.js";import"./BVp8Px3h.js";import{f as r}from"./Cf_IBOAw.js";function i(){let i=null,a=n();function o(){i!==null&&(clearTimeout(i),i=null)}return e(o),t(o),{removeTimeout:o,registerTimeout(e,t){o(),r(a)||(i=setTimeout(()=>{i=null,e()},t))}}}export{i as t};

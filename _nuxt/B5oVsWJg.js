@@ -1,0 +1,1 @@
+import{ut as e}from"./CBvX2I-a.js";import{o as t}from"./BoM-Z5it.js";var n=t({name:`QSpace`,setup(){let t=e(`div`,{class:`q-space`});return()=>t}});export{n as t};
