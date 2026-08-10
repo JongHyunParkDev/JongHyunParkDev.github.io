@@ -133,50 +133,6 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jonghyunparkdev.github.io/character-counter"/>
   </url>
   <url>
-    <loc>https://jonghyunparkdev.github.io/salary-calculator</loc>
-    <lastmod>2026-08-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://jonghyunparkdev.github.io/salary-calculator"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://jonghyunparkdev.github.io/ko/salary-calculator"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://jonghyunparkdev.github.io/ja/salary-calculator"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://jonghyunparkdev.github.io/zh/salary-calculator"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://jonghyunparkdev.github.io/salary-calculator"/>
-  </url>
-  <url>
-    <loc>https://jonghyunparkdev.github.io/ko/salary-calculator</loc>
-    <lastmod>2026-08-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://jonghyunparkdev.github.io/salary-calculator"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://jonghyunparkdev.github.io/ko/salary-calculator"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://jonghyunparkdev.github.io/ja/salary-calculator"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://jonghyunparkdev.github.io/zh/salary-calculator"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://jonghyunparkdev.github.io/salary-calculator"/>
-  </url>
-  <url>
-    <loc>https://jonghyunparkdev.github.io/ja/salary-calculator</loc>
-    <lastmod>2026-08-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://jonghyunparkdev.github.io/salary-calculator"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://jonghyunparkdev.github.io/ko/salary-calculator"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://jonghyunparkdev.github.io/ja/salary-calculator"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://jonghyunparkdev.github.io/zh/salary-calculator"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://jonghyunparkdev.github.io/salary-calculator"/>
-  </url>
-  <url>
-    <loc>https://jonghyunparkdev.github.io/zh/salary-calculator</loc>
-    <lastmod>2026-08-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://jonghyunparkdev.github.io/salary-calculator"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://jonghyunparkdev.github.io/ko/salary-calculator"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://jonghyunparkdev.github.io/ja/salary-calculator"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://jonghyunparkdev.github.io/zh/salary-calculator"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://jonghyunparkdev.github.io/salary-calculator"/>
-  </url>
-  <url>
     <loc>https://jonghyunparkdev.github.io/pdf-tools</loc>
     <lastmod>2026-08-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -483,50 +439,6 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://jonghyunparkdev.github.io/ja/unit-converter"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://jonghyunparkdev.github.io/zh/unit-converter"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jonghyunparkdev.github.io/unit-converter"/>
-  </url>
-  <url>
-    <loc>https://jonghyunparkdev.github.io/loan-calculator</loc>
-    <lastmod>2026-08-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://jonghyunparkdev.github.io/loan-calculator"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://jonghyunparkdev.github.io/ko/loan-calculator"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://jonghyunparkdev.github.io/ja/loan-calculator"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://jonghyunparkdev.github.io/zh/loan-calculator"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://jonghyunparkdev.github.io/loan-calculator"/>
-  </url>
-  <url>
-    <loc>https://jonghyunparkdev.github.io/ko/loan-calculator</loc>
-    <lastmod>2026-08-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://jonghyunparkdev.github.io/loan-calculator"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://jonghyunparkdev.github.io/ko/loan-calculator"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://jonghyunparkdev.github.io/ja/loan-calculator"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://jonghyunparkdev.github.io/zh/loan-calculator"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://jonghyunparkdev.github.io/loan-calculator"/>
-  </url>
-  <url>
-    <loc>https://jonghyunparkdev.github.io/ja/loan-calculator</loc>
-    <lastmod>2026-08-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://jonghyunparkdev.github.io/loan-calculator"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://jonghyunparkdev.github.io/ko/loan-calculator"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://jonghyunparkdev.github.io/ja/loan-calculator"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://jonghyunparkdev.github.io/zh/loan-calculator"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://jonghyunparkdev.github.io/loan-calculator"/>
-  </url>
-  <url>
-    <loc>https://jonghyunparkdev.github.io/zh/loan-calculator</loc>
-    <lastmod>2026-08-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://jonghyunparkdev.github.io/loan-calculator"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://jonghyunparkdev.github.io/ko/loan-calculator"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://jonghyunparkdev.github.io/ja/loan-calculator"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://jonghyunparkdev.github.io/zh/loan-calculator"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://jonghyunparkdev.github.io/loan-calculator"/>
   </url>
   <url>
     <loc>https://jonghyunparkdev.github.io/world-clock</loc>
@@ -931,48 +843,78 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://jonghyunparkdev.github.io/lotto-simulator</loc>
+    <loc>https://jonghyunparkdev.github.io/ko/salary-calculator</loc>
     <lastmod>2026-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://jonghyunparkdev.github.io/lotto-simulator"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://jonghyunparkdev.github.io/ko/lotto-simulator"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://jonghyunparkdev.github.io/ja/lotto-simulator"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://jonghyunparkdev.github.io/zh/lotto-simulator"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://jonghyunparkdev.github.io/lotto-simulator"/>
+  </url>
+  <url>
+    <loc>https://jonghyunparkdev.github.io/ko/severance-calculator</loc>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://jonghyunparkdev.github.io/ko/wage-calculator</loc>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://jonghyunparkdev.github.io/ko/unemployment-benefit-calculator</loc>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://jonghyunparkdev.github.io/loan-calculator</loc>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jonghyunparkdev.github.io/loan-calculator"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jonghyunparkdev.github.io/ko/loan-calculator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jonghyunparkdev.github.io/ja/loan-calculator"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://jonghyunparkdev.github.io/zh/loan-calculator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jonghyunparkdev.github.io/loan-calculator"/>
+  </url>
+  <url>
+    <loc>https://jonghyunparkdev.github.io/ko/loan-calculator</loc>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jonghyunparkdev.github.io/loan-calculator"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jonghyunparkdev.github.io/ko/loan-calculator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jonghyunparkdev.github.io/ja/loan-calculator"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://jonghyunparkdev.github.io/zh/loan-calculator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jonghyunparkdev.github.io/loan-calculator"/>
+  </url>
+  <url>
+    <loc>https://jonghyunparkdev.github.io/ja/loan-calculator</loc>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jonghyunparkdev.github.io/loan-calculator"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jonghyunparkdev.github.io/ko/loan-calculator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jonghyunparkdev.github.io/ja/loan-calculator"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://jonghyunparkdev.github.io/zh/loan-calculator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jonghyunparkdev.github.io/loan-calculator"/>
+  </url>
+  <url>
+    <loc>https://jonghyunparkdev.github.io/zh/loan-calculator</loc>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jonghyunparkdev.github.io/loan-calculator"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jonghyunparkdev.github.io/ko/loan-calculator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://jonghyunparkdev.github.io/ja/loan-calculator"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://jonghyunparkdev.github.io/zh/loan-calculator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jonghyunparkdev.github.io/loan-calculator"/>
   </url>
   <url>
     <loc>https://jonghyunparkdev.github.io/ko/lotto-simulator</loc>
     <lastmod>2026-08-10</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://jonghyunparkdev.github.io/lotto-simulator"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://jonghyunparkdev.github.io/ko/lotto-simulator"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://jonghyunparkdev.github.io/ja/lotto-simulator"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://jonghyunparkdev.github.io/zh/lotto-simulator"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://jonghyunparkdev.github.io/lotto-simulator"/>
-  </url>
-  <url>
-    <loc>https://jonghyunparkdev.github.io/ja/lotto-simulator</loc>
-    <lastmod>2026-08-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://jonghyunparkdev.github.io/lotto-simulator"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://jonghyunparkdev.github.io/ko/lotto-simulator"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://jonghyunparkdev.github.io/ja/lotto-simulator"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://jonghyunparkdev.github.io/zh/lotto-simulator"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://jonghyunparkdev.github.io/lotto-simulator"/>
-  </url>
-  <url>
-    <loc>https://jonghyunparkdev.github.io/zh/lotto-simulator</loc>
-    <lastmod>2026-08-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://jonghyunparkdev.github.io/lotto-simulator"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://jonghyunparkdev.github.io/ko/lotto-simulator"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://jonghyunparkdev.github.io/ja/lotto-simulator"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://jonghyunparkdev.github.io/zh/lotto-simulator"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://jonghyunparkdev.github.io/lotto-simulator"/>
+    <priority>1.0</priority>
   </url>
   <url>
     <loc>https://jonghyunparkdev.github.io/random-picker</loc>
