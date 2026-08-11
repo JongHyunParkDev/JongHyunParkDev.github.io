@@ -1,7 +1,0 @@
-{
-  "tool_name": "Bash",
-  "tool_input_preview": "{\"command\":\"cd c:/my/githubio-public && echo \\\"=== HEAD sitemap loc count ===\\\" && git show HEAD:sitemap.xml | grep -c '<loc>' && echo \\\"=== HEAD has movie-reviews? ===\\\" && git show HEAD:sitemap.xml ...",
-  "error": "Exit code 1\n=== HEAD sitemap loc count ===\n182\n=== HEAD has movie-reviews? ===\n0",
-  "timestamp": "2026-08-11T07:33:00.536Z",
-  "retry_count": 1
-}

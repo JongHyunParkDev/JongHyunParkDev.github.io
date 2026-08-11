@@ -1979,19 +1979,25 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jonghyunparkdev.github.io/privacy/"/>
   </url>
   <url>
-    <loc>https://jonghyunparkdev.github.io/ko/movie-reviews/spider-man-brand-new-day/</loc>
-    <lastmod>2026-08-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://jonghyunparkdev.github.io/ko/movie-reviews/django-unchained/</loc>
     <lastmod>2026-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://jonghyunparkdev.github.io/ko/movie-reviews/spider-man-brand-new-day/</loc>
+    <lastmod>2026-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://jonghyunparkdev.github.io/ko/movie-reviews/hereditary/</loc>
+    <lastmod>2026-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://jonghyunparkdev.github.io/ko/movie-reviews/backrooms/</loc>
     <lastmod>2026-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
