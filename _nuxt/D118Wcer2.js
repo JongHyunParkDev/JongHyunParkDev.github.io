@@ -1,1 +1,0 @@
-import{B as e,ut as t}from"./CBvX2I-a.js";import{i as n,o as r}from"./BoM-Z5it.js";import{i,r as a}from"./-MSd5lG0.js";var o=r({name:`QCardActions`,props:{...i,vertical:Boolean},setup(r,{slots:i}){let o=a(r),s=e(()=>`q-card__actions ${o.value} q-card__actions--${r.vertical?`vert column`:`horiz row`}`);return()=>t(`div`,{class:s.value},n(i.default))}});export{o as t};
