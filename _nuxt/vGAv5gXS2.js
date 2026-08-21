@@ -1,0 +1,1 @@
+import{I as e,c as t}from"./n-o7Tpg6.js";var n=t({name:`QSpace`,setup(){let t=e(`div`,{class:`q-space`});return()=>t}});export{n as t};

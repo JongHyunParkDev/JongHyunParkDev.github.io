@@ -1,0 +1,1 @@
+import{F as e,K as t,V as n,W as r}from"./n-o7Tpg6.js";import{f as i}from"./DgiL2SN8.js";function a(){let a,o=e();function s(){a=void 0}return t(s),r(s),{removeTick:s,registerTick(e){a=e,n(()=>{a===e&&(i(o)||a(),a=void 0)})}}}export{a as t};

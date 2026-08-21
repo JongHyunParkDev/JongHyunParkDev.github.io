@@ -1,1 +1,0 @@
-import{B as e,ut as t}from"./CBvX2I-a.js";import{i as n,o as r}from"./BoM-Z5it.js";var i=r({name:`QCardSection`,props:{tag:{type:String,default:`div`},horizontal:Boolean},setup(r,{slots:i}){let a=e(()=>`q-card__section q-card__section--${r.horizontal?`horiz row no-wrap`:`vert`}`);return()=>t(r.tag,{class:a.value},n(i.default))}});export{i as t};

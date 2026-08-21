@@ -1,0 +1,1 @@
+import{R as e}from"./n-o7Tpg6.js";function t(){return e(`_q_`)}export{t};

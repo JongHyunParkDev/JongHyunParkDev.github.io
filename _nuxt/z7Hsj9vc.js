@@ -1,0 +1,1 @@
+import{F as e,K as t,W as n}from"./n-o7Tpg6.js";import"./453JR_k3.js";import{f as r}from"./DgiL2SN8.js";function i(){let i=null,a=e();function o(){i!==null&&(clearTimeout(i),i=null)}return t(o),n(o),{removeTimeout:o,registerTimeout(e,t){o(),r(a)||(i=setTimeout(()=>{i=null,e()},t))}}}export{i as t};

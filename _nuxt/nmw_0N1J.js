@@ -1,0 +1,1 @@
+import{E as e}from"./n-o7Tpg6.js";var t={dark:{type:Boolean,default:null}};function n(t,n){return e(()=>t.dark===null?n.dark.isActive:t.dark)}export{t as n,n as t};

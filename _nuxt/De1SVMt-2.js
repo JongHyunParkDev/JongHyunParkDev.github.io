@@ -1,0 +1,1 @@
+import{E as e,I as t,c as n,o as r}from"./n-o7Tpg6.js";import{i,r as a}from"./DIJBh0ba.js";var o=n({name:`QCardActions`,props:{...i,vertical:Boolean},setup(n,{slots:i}){let o=a(n),s=e(()=>`q-card__actions ${o.value} q-card__actions--${n.vertical?`vert column`:`horiz row`}`);return()=>t(`div`,{class:s.value},r(i.default))}});export{o as t};

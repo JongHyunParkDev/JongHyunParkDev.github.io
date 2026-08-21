@@ -1,0 +1,1 @@
+import{E as e,I as t,c as n,o as r}from"./n-o7Tpg6.js";var i=n({name:`QCardSection`,props:{tag:{type:String,default:`div`},horizontal:Boolean},setup(n,{slots:i}){let a=e(()=>`q-card__section q-card__section--${n.horizontal?`horiz row no-wrap`:`vert`}`);return()=>t(n.tag,{class:a.value},r(i.default))}});export{i as t};
