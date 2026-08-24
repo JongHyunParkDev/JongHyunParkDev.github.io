@@ -1,0 +1,1 @@
+import{E as e,Ft as t,Tt as n,v as r}from"./ByK6P7Vk.js";import{i,r as a}from"./BLdCKLOO.js";var o=e({name:`QCardActions`,props:{...i,vertical:Boolean},setup(e,{slots:i}){let o=a(e),s=n(()=>`q-card__actions ${o.value} q-card__actions--${e.vertical?`vert column`:`horiz row`}`);return()=>t(`div`,{class:s.value},r(i.default))}});export{o as t};

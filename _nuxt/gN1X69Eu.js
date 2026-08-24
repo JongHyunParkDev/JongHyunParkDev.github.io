@@ -1,0 +1,1 @@
+import{Bt as e,Gt as t,Pt as n,Ut as r}from"./ByK6P7Vk.js";import{f as i}from"./Dv2dgsUf.js";function a(){let a,o=n();function s(){a=void 0}return t(s),r(s),{removeTick:s,registerTick(t){a=t,e(()=>{a===t&&(i(o)||a(),a=void 0)})}}}export{a as t};
