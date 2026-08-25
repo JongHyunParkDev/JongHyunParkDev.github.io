@@ -1,1 +1,0 @@
-import"./BuyEJ7Gw.js";var e=globalThis.setInterval;export{e as t};
