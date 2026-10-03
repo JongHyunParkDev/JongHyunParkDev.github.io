@@ -1,1 +1,0 @@
-import{Ut as e,fn as t,nt as n,qt as r}from"./CfQpieR8.js";import{t as i}from"./Cn565HRk.js";var a=a=>{let o=t(new Date(n().public.buildTime)),s;return r(()=>{o.value=new Date,a&&(s=i(()=>o.value=new Date,a))}),e(()=>clearInterval(s)),o};export{a as t};

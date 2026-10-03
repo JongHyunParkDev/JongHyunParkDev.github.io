@@ -1,0 +1,1 @@
+import"./BKPec9hi.js";var e=globalThis.setInterval;export{e as t};
